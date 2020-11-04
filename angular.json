@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "queuemanagement"
+    }
+  },
+  "defaultProject": "queuemanagement",
+  "cli": {
+    "analytics": "ec58af56-4839-41ac-aace-c37568c9a56e"
+  }
 }
